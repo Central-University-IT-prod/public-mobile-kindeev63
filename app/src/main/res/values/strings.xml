@@ -1,0 +1,84 @@
+<resources>
+    <string name="app_name" translatable="false">LifestyleHUB</string>
+    <string name="feels_like">Feels like:</string>
+    <string name="no_connection">No internet connection!</string>
+    <string name="no_location_permission">No location permission!</string>
+    <string name="hello_text">Hello,</string>
+    <string name="no_places_nearby">There are no places nearby</string>
+    <string name="address">Address</string>
+    <string name="description">Description</string>
+    <string name="work_time">Work time</string>
+    <string name="monday">Monday</string>
+    <string name="tuesday">Tuesday</string>
+    <string name="wednesday">Wednesday</string>
+    <string name="thursday">Thursday</string>
+    <string name="friday">Friday</string>
+    <string name="saturday">Saturday</string>
+    <string name="sunday">Sunday</string>
+
+    <string-array name="weekday">
+        <item>@string/monday</item>
+        <item>@string/tuesday</item>
+        <item>@string/wednesday</item>
+        <item>@string/thursday</item>
+        <item>@string/friday</item>
+        <item>@string/saturday</item>
+        <item>@string/sunday</item>
+    </string-array>
+    <string name="weekend">Weekend</string>
+    <string name="now">Now</string>
+    <string name="open">Open</string>
+    <string name="closed">Closed</string>
+    <string name="email">Email</string>
+    <string name="fax">Fax</string>
+    <string name="menu">Menu</string>
+    <string name="telephone">Telephone</string>
+    <string name="website">Website</string>
+    <string name="exist">Exist</string>
+    <string name="no">No</string>
+    <string name="additional_information">Additional Information</string>
+    <string name="accept_credit_card">Accept credit card</string>
+    <string name="delivery">Delivery</string>
+    <string name="restroom">Restroom</string>
+    <string name="music">Music</string>
+    <string name="live_music">Live music</string>
+    <string name="private_room">Private room</string>
+    <string name="outdoor_seating">Outdoor seating</string>
+    <string name="wheelchair_accessible">Wheelchair accessible</string>
+    <string name="parking">Parking</string>
+    <string name="tips">Tips</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="sign_in">Sign In</string>
+    <string name="invalid_user">Invalid login and password</string>
+    <string name="log_out">Log Out</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="title">Title</string>
+    <string name="text">Text</string>
+    <string name="no_date">No date</string>
+
+
+    <string name="short_monday">Mo</string>
+    <string name="short_tuesday">Tu</string>
+    <string name="short_wednesday">We</string>
+    <string name="short_thursday">Th</string>
+    <string name="short_friday">Fr</string>
+    <string name="short_saturday">Sa</string>
+    <string name="short_sunday">Su</string>
+
+    <string-array name="short_weekday">
+        <item>@string/short_monday</item>
+        <item>@string/short_tuesday</item>
+        <item>@string/short_wednesday</item>
+        <item>@string/short_thursday</item>
+        <item>@string/short_friday</item>
+        <item>@string/short_saturday</item>
+        <item>@string/short_sunday</item>
+    </string-array>
+    <string name="no_notes">No notes</string>
+    <string name="random_activity">Random activity</string>
+    <string name="next_holiday">Next holiday</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="search">Search</string>
+</resources>

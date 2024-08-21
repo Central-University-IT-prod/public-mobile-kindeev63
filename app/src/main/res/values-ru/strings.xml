@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="feels_like">Ощущается как:</string>
+    <string name="no_connection">Отсутствует подключение к интернету!</string>
+    <string name="no_location_permission">Не получено разрешение на просмотр геолокации!</string>
+    <string name="hello_text">Привет,</string>
+    <string name="no_places_nearby">Нет мест рядом</string>
+    <string name="address">Адрес</string>
+    <string name="description">Описание</string>
+    <string name="work_time">Рабочее время</string>
+
+    <string name="monday">Понедельник</string>
+    <string name="tuesday">Вторник</string>
+    <string name="wednesday">Среда</string>
+    <string name="thursday">Четверг</string>
+    <string name="friday">Пятница</string>
+    <string name="saturday">Суббота</string>
+    <string name="sunday">Воскресенье</string>
+    <string name="weekend">Выходной</string>
+    <string name="now">Сейчас</string>
+    <string name="open">Открыто</string>
+    <string name="closed">Закрыто</string>
+    <string name="email">Почта</string>
+    <string name="fax">Факс</string>
+    <string name="menu">Меню</string>
+    <string name="telephone">Телефон</string>
+    <string name="website">Сайт</string>
+    <string name="exist">Есть</string>
+    <string name="no">Нет</string>
+    <string name="additional_information">Дополнительная информация</string>
+    <string name="accept_credit_card">Оплата картой</string>
+    <string name="delivery">Доставка</string>
+    <string name="restroom">Туалет</string>
+    <string name="music">Музыка</string>
+    <string name="live_music">Живая музыка</string>
+    <string name="private_room">Приватная комната</string>
+    <string name="outdoor_seating">Места на улице</string>
+    <string name="wheelchair_accessible">Доступ для инвалидных колясок</string>
+    <string name="parking">Парковка</string>
+    <string name="tips">Отзывы</string>
+    <string name="sign_up">Зарегестрироваться</string>
+    <string name="sign_in">Войти</string>
+    <string name="invalid_user">Неверный логин и пароль</string>
+    <string name="log_out">Выйти</string>
+    <string name="login">Логин</string>
+    <string name="password">Пароль</string>
+    <string name="title">Название</string>
+    <string name="text">Текст</string>
+    <string name="no_date">Нет даты</string>
+
+    <string name="short_monday">ПН</string>
+    <string name="short_tuesday">ВТ</string>
+    <string name="short_wednesday">СР</string>
+    <string name="short_thursday">ЧТ</string>
+    <string name="short_friday">ПН</string>
+    <string name="short_saturday">СБ</string>
+    <string name="short_sunday">ВС</string>
+    <string name="no_notes">Нет заметок</string>
+    <string name="random_activity">Случайное занятие</string>
+    <string name="next_holiday">Следующий праздник</string>
+    <string name="save">Сохранить</string>
+    <string name="cancel">Отмена</string>
+    <string name="search">Поиск</string>
+</resources>
